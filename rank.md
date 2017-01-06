@@ -1,0 +1,57 @@
+# HỆ THỐNG XẾP HẠNG THÀNH VIÊN CỦA J2TEAM COMMUNITY
+
+Nhóm J2TeaM Community được duy trì và phát triển bởi một hệ thống xếp hạng: **J2TeaM Community Ranking**.
+
+Ở đây là tất cả những gì mà bạn cần biết về hệ thống này.
+
+## Lý do J2TeaM Community Ranking được tạo ra
+
+Nhóm J2TeaM Community được tạo ra vào ngày 06/10/2016 bởi Juno_okyo. Sau ngày đầu tiên nhóm đã có hơn **1000** thành viên tham gia. Tới gần cuối tháng 12, tức sau 2 tháng hoạt động thì nhóm có tới **hơn 4000 thành viên**. Dù đây là con số không hề nhỏ, nhưng tương tác của nhóm khá là thấp, một ngày chỉ có vài bài đăng và nội dung cũng khá là nhạt nhẽo.
+
+Cảm thấy tình hình của nhóm chẳng hề giống một nhóm "vài nghìn thành viên", Juno [quyết định](https://www.facebook.com/groups/j2team.community/permalink/409501726048620/) viết ra một công cụ thống kê tương tác của thành viên trong nhóm. Công cụ này sẽ giúp Ban quản trị có thể dễ dàng [loại bỏ](https://www.facebook.com/groups/j2team.community/permalink/409514332714026/) những thành viên tham gia mà KHÔNG hoạt động gì trong nhóm.
+
+## J2TeaM Community Ranking hoạt động như thế nào?
+
+Bằng cách thu thập dữ liệu của nhóm trong 30 ngày gần nhất, công cụ của Juno sẽ "chấm điểm" cho mọi tương tác của bạn với nhóm.
+
+Vậy tương tác là như thế nào?
+
+- Bạn **đăng** (hoặc **chia sẻ**) một bài viết vào nhóm.
+- Bạn **bình luận** vào một bài trong nhóm.
+- Bạn **reaction** (like/love/haha/wow/sad/angry) trên một bài viết trong nhóm.
+- Bạn **chia sẻ** một bài trong nhóm về trang cá nhân ở chế độ **Công khai** hoặc **Bạn bè**.
+
+Tất cả những hành động trên đều là **tương tác với group**. Và hệ thống chấm điểm của mình dựa theo những hành động này. Đây đều là những hành động cơ bản trên Facebook, nên trong 30 ngày mà bạn không có bất cứ dấu hiệu nào cho thấy bạn đang ở trong group thì bạn được tự động kick ra ngoài.
+
+Chú ý: Kick chứ không block, bạn có quyền xin vào lại. Nhưng nếu bị kick 3 lần khỏi nhóm thì bạn sẽ bị block vĩnh viễn.
+
+## TÔI CÓ THỂ THEO DÕI THỨ HẠNG CỦA MÌNH Ở ĐÂU?
+
+Bạn có thể theo dõi **Top 50** thành viên có thứ hạng cao nhất [tại đây](http://code.junookyo.xyz/apps/j2team-community-ranking/index.php).
+
+Nếu chưa đủ điểm lọt vào danh sách trên thì bạn có thể tra thứ hạng thông qua bot chat J2TeaM: https://m.me/J2TeaM.pro/
+
+![bot chat](https://i.imgur.com/VHeQPWV.png)
+
+## THỨ HẠNG CAO THÌ TÔI CÓ NHẬN ĐƯỢC GÌ KHÔNG?
+
+Chơi game tất nhiên phải có thưởng. Với J2TeaM Community Ranking thì hệ thống sẽ tổng kết điểm vào mỗi ngày cuối tháng. Nếu bạn đạt hạng trong Top 3 thành viên có tổng điểm cao nhất thì bạn sẽ nhận được:
+
+- Tài khoản [Premium](http://code.junookyo.xyz/j2team-security/premium-upgrade/) của [J2TeaM Security](https://chrome.google.com/webstore/detail/j2team-security/hmlcjjclebjnfohgmgikjfnbmfkigocc) (hạn 30 ngày). Nếu tháng tiếp theo vẫn lọt Top 3 sẽ được cộng dồn hạn sử dụng.
+- Nhận một số **ưu đãi**, **đặc quyền** trong nhóm J2TeaM Community.
+- Nhận giải thưởng đặc biệt do thành viên trong nhóm tài trợ.
+- Được ưu tiên nếu có xảy ra tranh chấp với thành viên khác trong nhóm.
+- Được ưu tiên trong các đợt tuyển chọn thành viên vào ban Điều hành nhóm (Moderator).
+- ...
+
+## CÂU HỎI THƯỜNG GẶP (FAQ)
+
+### Nếu bài viết của tôi bị xóa thì tôi có bị mất điểm không?
+
+**Có**. Vì khi cập nhật thì hệ thống thu thập lại từ đầu nên bài bị xóa thì tất nhiên không thu thập được để mà tính điểm rồi.
+
+### Nếu tôi không hoạt động gì trong một ngày thì điểm sẽ được giữ nguyên chứ?
+
+**Không**. Điểm sẽ bị giảm đi vì khi cập nhật thì hệ thống thu thập dữ liệu của 30 ngày trước đó chứ không từ một ngày nào cố định. Do đó, nếu bạn ngừng hoạt động thì điểm sẽ giảm dần. Sau 30 ngày không hoạt động thì điểm tự giảm xuống 0.
+
+![ranking](https://i.imgur.com/COg8ZI0.png)
