@@ -1,4 +1,4 @@
-# HỆ THỐNG XẾP HẠNG THÀNH VIÊN CỦA J2TEAM COMMUNITY
+# HỆ THỐNG XẾP HẠNG THÀNH VIÊN TRONG NHÓM
 
 Nhóm [J2TeaM Community](https://www.facebook.com/groups/j2team.community/) được duy trì và phát triển bởi một hệ thống xếp hạng: **J2TeaM Community Ranking**.
 
