@@ -14,7 +14,7 @@
 
 ### VỀ CHỦ ĐỀ
 
-Nhóm được quản lý bởi J2TeaM nên ưu tiên chủ đề về lập trình và bảo mật. Các bài viết có dạng như sau sẽ KHÔNG được duyệt:
+Nhóm được quản lý bởi [J2TeaM](https://www.google.com.vn/search?q=j2team) nên ưu tiên chủ đề về lập trình và bảo mật. Các bài viết có dạng như sau sẽ KHÔNG được duyệt:
 - Hỏi cách hack tài khoản mạng xã hội (Facebook, Google,...) của người khác.
 - Hỏi cách khóa tài khoản Facebook của người khác (cái mà mấy bạn trẻ hay gọi là RIP tài khoản ấy).
 - Các bài liên quan tới chủ đề chia sẻ tool DoS/DDoS/Botnet. Bài về cách phòng chống, bảo mật web thì được duyệt nhé.
