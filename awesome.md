@@ -6,3 +6,4 @@ Những bài viết dưới đây được chọn ra dựa trên lượng tươn
 - https://www.facebook.com/groups/j2team.community/permalink/412561632409296/
 - https://www.facebook.com/groups/j2team.community/permalink/415469205451872/
 - https://www.facebook.com/groups/j2team.community/permalink/418245055174287/
+- https://www.facebook.com/groups/j2team.community/permalink/414801515518641/
