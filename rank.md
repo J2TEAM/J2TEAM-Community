@@ -69,3 +69,7 @@ Vậy nên nếu trong ngày `(n-31)` bạn kiếm được 500 điểm mà tron
 Thay vì thắc mắc "vì sao tôi bị trừ điểm" thì hãy thắc mắc "vì sao người khác cũng bị trừ điểm mà rank họ lại tăng". Vì thuật toán chấm điểm áp dụng lên TOÀN BỘ THÀNH VIÊN chứ không phải CHỈ MÌNH BẠN nên yếu tố quyết định thứ hạng ở đây là bạn có tương tác đủ nhiều mỗi ngày để bị trừ ít điểm hơn mọi người trong **ngày hôm sau** hay không. Hãy nhớ là tất cả cùng bị trừ điểm hoặc cộng điểm như nhau nên hoàn toàn công bằng. Không có sự thiên vị cho bất cứ ai cả!
 
 ![rank](https://i.imgur.com/DQHSdUH.png)
+
+### Tại sao số thành viên được xếp hạng nhiều hơn số thành viên hiện tại của nhóm?
+
+Đọc câu trả lời [tại đây](https://www.facebook.com/groups/j2team.community/permalink/418817018450424/?comment_id=418821155116677&comment_tracking=%7B%22tn%22%3A%22R2%22%7D).
