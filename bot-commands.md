@@ -12,6 +12,7 @@ Ngoài việc trò chuyện cùng bạn thì Bot còn có thể làm được nh
 | decode, giaima             | Giải mã văn bản, liên kết (được mã hóa bởi Bot)                    |
 | qrcode                     | Giải mã QR Code                                                    |
 | rutgonlink, rutgonurl      | Rút gọn liên kết thông qua dịch vụ goo.gl; bit.ly hoặc tinyurl.com |
+| quotes                     | Hiện ngẫu nhiên một câu trích dẫn nổi tiếng                        |
 
 Các tính năng mới sẽ được **cập nhật** và **bổ sung** liên tục.
 
