@@ -11,14 +11,14 @@
 - Dùng chức năng tìm kiếm bài viết trong nhóm trước khi đăng để tránh việc **trùng lặp nội dung**.
 - **KHÔNG** sử dụng các liên kết rút gọn (ouo, adfly, link5s...) trong bài viết với mục đích kiếm lợi nhuận từ nhóm.
 - Nếu đăng bài viết về lập trình, hãy sử dụng các trang như [pastebin.com](http://pastebin.com/index.php) hoặc [gist.github.com](https://gist.github.com/) để đăng code thay vì paste thẳng code trong bài viết.
-- Không đăng bài viết liên quan đến chủ đề chính trị, tôn giáo.
 
 ### VỀ CHỦ ĐỀ
 
 Nhóm được quản lý bởi [J2TeaM](https://www.google.com.vn/search?q=j2team) nên ưu tiên chủ đề về lập trình và bảo mật. Các bài viết có dạng như sau sẽ KHÔNG được duyệt:
-- Hỏi cách hack tài khoản mạng xã hội (Facebook, Google,...) của người khác.
-- Hỏi cách khóa tài khoản Facebook của người khác (cái mà mấy bạn trẻ hay gọi là RIP tài khoản ấy).
-- Các bài liên quan tới chủ đề chia sẻ tool DoS/DDoS/Botnet. Bài về cách phòng chống, bảo mật web thì được duyệt nhé.
+- Hỏi hoặc chia sẻ cách HACK tài khoản mạng xã hội (Facebook, Google,...) của người khác.
+- Hỏi hoặc chia sẻ cách KHÓA tài khoản Facebook của người khác (cái mà mấy bạn trẻ hay gọi là RIP tài khoản ấy).
+- Các bài liên quan tới chủ đề chia sẻ tool DoS/DDoS/Botnet/Malware. Bài về cách phòng chống, bảo mật web thì được duyệt nhé.
+- **KHÔNG** đăng bài viết liên quan đến chủ đề chính trị, tôn giáo.
 
 ### VỀ HASHTAG
 
