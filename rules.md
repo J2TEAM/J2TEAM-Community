@@ -11,6 +11,7 @@
 - Dùng chức năng tìm kiếm bài viết trong nhóm trước khi đăng để tránh việc **trùng lặp nội dung**.
 - **KHÔNG** sử dụng các liên kết rút gọn (ouo, adfly, link5s...) trong bài viết với mục đích kiếm lợi nhuận từ nhóm.
 - Nếu đăng bài viết về lập trình, hãy sử dụng các trang như [pastebin.com](http://pastebin.com/index.php) hoặc [gist.github.com](https://gist.github.com/) để đăng code thay vì paste thẳng code trong bài viết.
+- Không đăng bài viết liên quan đến chủ đề chính trị, tôn giáo.
 
 ### VỀ CHỦ ĐỀ
 
@@ -32,7 +33,7 @@ Ví dụ về một [bài viết](https://www.facebook.com/groups/j2team.communi
 - **KHÔNG** văng tục, bình luận vô văn hóa, chửi thề.
 - Bình luận **PHẢI** liên quan tới nội dung bài viết.
 - Nội dung bài viết không vừa lòng thì góp ý một cách lịch sự, không chê bai quá đáng, khiêu khích. Hoặc đơn giản chỉ cần bỏ qua, đọc bài khác.
-- **KHÔNG** "chấm" ("."), hãy dùng chức năng "Bật thông báo cho bài viết" hoặc "Lưu bài viết" nếu bạn muốn theo dõi cập nhật của bài viết.
+- **KHÔNG** "chấm" (".") hoặc "hóng", hãy dùng chức năng "Bật thông báo cho bài viết" hoặc "Lưu bài viết" nếu bạn muốn theo dõi cập nhật của bài viết.
 - **KHÔNG** spam, dùng chức năng "Sửa bình luận" thay vì bình luận liên tiếp trong thời gian ngắn.
 
 ## HÌNH THỨC XỬ LÝ THÀNH VIÊN VI PHẠM
