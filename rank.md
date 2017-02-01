@@ -38,6 +38,8 @@ Nếu chưa đủ điểm lọt vào danh sách trên thì bạn có thể tra t
 Chơi game tất nhiên phải có thưởng. Với J2TeaM Community Ranking thì hệ thống sẽ tổng kết điểm vào mỗi ngày cuối tháng. Nếu bạn đạt hạng trong Top 3 thành viên có tổng điểm cao nhất thì bạn sẽ nhận được:
 
 - Tài khoản [Premium](http://code.junookyo.xyz/j2team-security/premium-upgrade/) của [J2TeaM Security](https://chrome.google.com/webstore/detail/j2team-security/hmlcjjclebjnfohgmgikjfnbmfkigocc) (hạn 30 ngày). Nếu tháng tiếp theo vẫn lọt Top 3 sẽ được cộng dồn hạn sử dụng.
+- Top 3 thành viên thứ hạng cao nhất sẽ xuất hiện trên Cover (ảnh bìa) của nhóm.
+- Top 1 của mỗi tháng sẽ được tham gia nhóm bí mật chỉ dành cho người lên được Thách Đấu.
 - Nhận một số **ưu đãi**, **đặc quyền** trong nhóm J2TeaM Community.
 - Nhận giải thưởng đặc biệt do thành viên trong nhóm tài trợ.
 - Được ưu tiên nếu có xảy ra tranh chấp với thành viên khác trong nhóm.
