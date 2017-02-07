@@ -22,6 +22,7 @@ Nhóm được quản lý bởi [J2TeaM](https://www.google.com.vn/search?q=j2te
 - **KHÔNG** đăng bài viết liên quan đến chủ đề chính trị, tôn giáo.
 - Bài viết mang tính chất lôi kéo thành viên qua nhóm khác.
 - Hỏi xin key, crack phần mềm.
+- Bài chỉ có mỗi liên kết mà không có mô tả gì (spam câu view).
 
 ### VỀ HASHTAG
 
