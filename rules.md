@@ -20,6 +20,7 @@ Nhóm được quản lý bởi [J2TeaM](https://www.google.com.vn/search?q=j2te
 - Hỏi hoặc chia sẻ cách KHÓA tài khoản Facebook của người khác (cái mà mấy bạn trẻ hay gọi là RIP tài khoản ấy).
 - Các bài liên quan tới chủ đề chia sẻ tool DoS/DDoS/Botnet/Malware. Bài về cách phòng chống, bảo mật web thì được duyệt nhé.
 - **KHÔNG** đăng bài viết liên quan đến chủ đề chính trị, tôn giáo.
+- Bài viết mang tính chất lôi kéo thành viên qua nhóm khác.
 
 ### VỀ HASHTAG
 
