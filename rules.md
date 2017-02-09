@@ -6,7 +6,7 @@
 
 Những tài khoản có dạng như sau sẽ **KHÔNG** được phép tham gia nhóm:
 - Vừa tham gia Facebook được 1, 2 ngày.
-- Không có ảnh đại diện (ảnh mặc định của Facebook).
+- Không có ảnh đại diện (sử dụng ảnh mặc định của Facebook).
 - Cố tình sử dụng ảnh đại diện giống BQT gây nhầm lẫn cho thành viên khác.
 - Tài khoản có dấu hiệu là nick ảo, không hoạt động (vừa thay ảnh đại diện, ảnh bìa vài phút trước và không có bài đăng nào trên trang cá nhân).
 
