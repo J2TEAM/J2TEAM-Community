@@ -20,6 +20,7 @@ Những tài khoản có dạng như sau sẽ **KHÔNG** được phép tham gia
 - **KHÔNG** sử dụng các liên kết rút gọn (ouo, adfly, link5s...) trong bài viết với mục đích kiếm lợi nhuận từ nhóm.
 - Nếu đăng bài viết về lập trình, hãy sử dụng các trang như [pastebin.com](http://pastebin.com/index.php) hoặc [gist.github.com](https://gist.github.com/) để đăng code thay vì paste thẳng code trong bài viết.
 - Nếu chia sẻ tài nguyên, liên kết mà thành viên khác có thể download được thì khuyến khích sử dụng trang [mã hóa liên kết của J2TeaM](http://code.junookyo.xyz/j2team-community/) hoặc trang [anlink.top](http://anlink.top/) của bạn Nguyen Huu Dat, vừa chống được "Ninja" lại vừa tăng tương tác cho nhóm. Xem bài giới thiệu [tại đây](https://www.facebook.com/groups/j2team.community/permalink/423097854689007/)!
+- Nếu bài viết, tài nguyên không phải là của bạn thì hãy **ghi nguồn** khi chia sẻ vào nhóm để tôn trọng công sức của tác giả.
 
 ### VỀ CHỦ ĐỀ
 
