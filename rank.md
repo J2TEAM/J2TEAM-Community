@@ -17,13 +17,13 @@ Bằng cách thu thập dữ liệu của nhóm trong 30 ngày gần nhất, cô
 Vậy tương tác là như thế nào?
 
 - Bạn **đăng** (hoặc **chia sẻ**) một bài viết vào nhóm.
-- Bạn **bình luận** vào một bài trong nhóm.
-- Bạn **reaction** (like/love/haha/wow/sad/angry) trên một bài viết trong nhóm.
-- Bạn **chia sẻ** một bài trong nhóm về trang cá nhân ở chế độ **Công khai** hoặc **Bạn bè**.
+- Bạn **bình luận** vào một bài viết trong nhóm.
+- Bạn **reaction** (Like/Love/Haha/Wow/Sad/Angry) trên một bài viết trong nhóm.
+- Bạn **chia sẻ** một bài viết trong nhóm về trang cá nhân ở chế độ **Công khai**.
 
 Tất cả những hành động trên đều là **tương tác với group**. Và hệ thống chấm điểm của mình dựa theo những hành động này. Đây đều là những hành động cơ bản trên Facebook, nên trong 30 ngày mà bạn không có bất cứ dấu hiệu nào cho thấy bạn đang ở trong group thì bạn được tự động kick ra ngoài.
 
-Chú ý: Kick chứ không block, bạn có quyền xin vào lại. Nhưng nếu bị kick 3 lần khỏi nhóm thì bạn sẽ bị block vĩnh viễn.
+Chú ý: Kick chứ không Block, bạn có quyền xin vào lại. Nhưng nếu bị Kick 3 lần khỏi nhóm thì bạn sẽ bị **Block vĩnh viễn**.
 
 ## TÔI CÓ THỂ THEO DÕI THỨ HẠNG CỦA MÌNH Ở ĐÂU?
 
