@@ -5,10 +5,11 @@
 ## NỘI QUY VỀ TÀI KHOẢN
 
 Những tài khoản có dạng như sau sẽ **KHÔNG** được phép tham gia nhóm:
-- Vừa tham gia Facebook được 1, 2 ngày.
+- Vừa tham gia Facebook được 1-3 ngày.
 - Không có ảnh đại diện (sử dụng [ảnh mặc định](https://graph.facebook.com/2/picture?type=large) của Facebook).
 - Cố tình sử dụng ảnh đại diện giống BQT gây nhầm lẫn cho thành viên khác.
 - Tài khoản có dấu hiệu là nick ảo, không hoạt động (vừa thay ảnh đại diện, ảnh bìa vài phút trước và không có bài đăng nào trên trang cá nhân).
+- Tài khoản không có tên hiển thị (Facebook ma) hoặc tên sử dụng ký tự đặc biệt.
 
 ## NỘI QUY ĐĂNG BÀI VIẾT
 
@@ -24,13 +25,15 @@ Những tài khoản có dạng như sau sẽ **KHÔNG** được phép tham gia
 
 ### VỀ CHỦ ĐỀ
 
-Nhóm được quản lý bởi [J2TeaM](https://www.google.com.vn/search?q=j2team) nên ưu tiên chủ đề về công nghệ, lập trình và bảo mật. Chấp nhận các bài giải trí (miễn là không quá nhảm). Các bài viết có dạng như sau sẽ KHÔNG được duyệt:
+Nhóm được quản lý bởi [J2TeaM](https://www.google.com.vn/search?q=j2team) nên ưu tiên chủ đề về công nghệ thông tin, thảo luận lập trình và bảo mật. Chấp nhận các bài giải trí (miễn là không quá nhảm).
+
+Các bài viết có dạng như sau sẽ KHÔNG được duyệt:
 - Hỏi hoặc chia sẻ cách HACK tài khoản mạng xã hội (Facebook, Google,...) của người khác.
 - Hỏi hoặc chia sẻ cách KHÓA tài khoản Facebook của người khác (cái mà mấy bạn trẻ hay gọi là RIP tài khoản ấy).
 - Các bài liên quan tới chủ đề chia sẻ tool DoS/DDoS/Botnet/Malware. Bài về cách phòng chống, bảo mật web thì được duyệt nhé.
 - **KHÔNG** đăng bài viết liên quan đến chủ đề chính trị, tôn giáo.
-- Bài viết mang tính chất lôi kéo thành viên qua nhóm khác.
-- Hỏi xin key, crack phần mềm.
+- Bài viết mang tính chất PR cho nhóm, page để câu kéo thành viên.
+- Hỏi xin key, crack, phần mềm bản quyền.
 - Bài chỉ có mỗi liên kết mà không có mô tả gì (spam câu view).
 
 ### VỀ HASHTAG
