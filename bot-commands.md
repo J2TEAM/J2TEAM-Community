@@ -18,16 +18,14 @@ Ngoài việc trò chuyện cùng bạn thì Bot còn có thể làm được nh
 | google, timkiem            | Tìm kiếm Google                                                    |                       |
 | nói, voice                 | Bật chat voice                                                     |                       |
 | tắt, câm, im, off voice    | Tắt chat voice                                                     |                       |
-| translate, google dịch     | Google dịch                                                        |                       |
-| hacker news                | Hiện tin mới từ TheHackerNews (http://thehackernews.com/)          |                       |
-| vnexpress                  | Hiện tin mới từ VNExpress (http://vnexpress.net/)                  |                       |
-| juno blog, juno_okyo blog  | Hiện tin mới từ Juno_okyo's Blog (https://junookyo.blogspot.com/)  |                       |
-| kipalog                    | Hiện tin mới từ Kipalog (https://kipalog.com/)                     |                       |
-| whois, whois domain        | Tra thông tin tên miền                                             |                       |
-| shutterstock, shutter      | Get premium từ Shutterstock (https://www.shutterstock.com/)        | https://goo.gl/ztmLlU |
-| graphicstock               | Get premium từ Graphicstock (http://graphicstock.com/)             | https://goo.gl/jteFvq |
-| sitepoint                  | Get premium sách từ Sitepoint (http://sitepoint.com/)              | https://goo.gl/sUCvEV |
-
+| hacker news                | Hiện tin mới từ [TheHackerNews](http://thehackernews.com/)         |                       |
+| vnexpress                  | Hiện tin mới từ [VNExpress](http://vnexpress.net/)                 |                       |
+| juno blog, juno_okyo blog  | Hiện tin mới từ [Juno_okyo's Blog](https://junookyo.blogspot.com/) |                       |
+| kipalog                    | Hiện tin mới từ [Kipalog](https://kipalog.com/)                    |                       |
+| whois, whois domain        | Tra cứu thông tin tên miền                                         |                       |
+| shutterstock, shutter      | Tải ảnh Premium từ [Shutterstock](https://www.shutterstock.com/)   | https://goo.gl/ztmLlU |
+| graphicstock               | Tải ảnh Premium từ [Graphicstock](http://graphicstock.com/)        | https://goo.gl/jteFvq |
+| sitepoint                  | Tải sách Premium từ [Sitepoint](http://sitepoint.com/)             | https://goo.gl/sUCvEV |
 
 Các tính năng mới sẽ được **cập nhật** và **bổ sung** liên tục.
 
