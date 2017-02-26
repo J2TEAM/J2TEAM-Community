@@ -28,7 +28,6 @@ Ngoài việc trò chuyện cùng bạn thì Bot còn có thể làm được nh
 |        graphicstock        |       Get premium từ [Graphicstock](http://graphicstock.com/)      | https://goo.gl/jteFvq |
 |          sitepoint         |       Get premium sách từ [Sitepoint](http://sitepoint.com/)       | https://goo.gl/sUCvEV |
 
-
 Các tính năng mới sẽ được **cập nhật** và **bổ sung** liên tục.
 
 Nhấn [vào đây](https://m.me/J2TeaM.pro) để bắt đầu cuộc trò chuyện!
