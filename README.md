@@ -5,8 +5,8 @@ Những điều mà bạn cần biết nếu muốn tham gia [J2TeaM Community](
 ## Liên kết
 
 - [Nội quy nhóm](rules.md)
-- [Nội quy chuyên mục #23h](23h.md)
 - [Hệ thống xếp hạng thành viên](rank.md)
+- [Các lệnh mà bot hỗ trợ](bot-commands.md)
 - [Nhóm chat trên Slack](https://j2team-community.slack.com/messages)
 - [Tra cứu thứ hạng - Xem bài đang hot trong tuần](http://code.junookyo.xyz/apps/j2team-community-ranking/index.php)
 
