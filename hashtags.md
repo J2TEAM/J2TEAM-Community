@@ -1,4 +1,4 @@
-# Danh sách hashtag được áp dụng trong J2TEAM Community
+# Danh sách #hashtag trên J2TEAM Community
 
 Lưu ý:
 - Mọi hashtag phải bắt đầu bằng "j2team_" (giống như namespace) để tránh ảnh hưởng của hashtag trên các bài viết bên ngoài nhóm.
