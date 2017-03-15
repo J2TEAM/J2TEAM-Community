@@ -2,7 +2,7 @@
 
 Nhằm mục đích phân loại nội dung cũng như giúp các bạn dễ dàng tìm lại bài viết theo chủ đề sau này, J2TEAM Community yêu cầu mọi thành viên sử dụng [#hashtag](https://www.facebook.com/help/587836257914341) khi đăng bài trong nhóm.
 
-Lưu ý:
+**Lưu ý:**
 - Mọi hashtag phải bắt đầu bằng `j2team_` (giống như namespace) để tránh ảnh hưởng của hashtag trên các bài viết bên ngoài nhóm.
 - Bạn có thể dùng nhiều hashtag trong một bài viết nếu thấy liên quan tới chủ đề bạn muốn chia sẻ.
 
