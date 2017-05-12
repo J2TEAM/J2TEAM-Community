@@ -1,6 +1,6 @@
 # Danh sách #hashtag trên J2TEAM Community
 
-Nhằm mục đích phân loại nội dung cũng như giúp các bạn dễ dàng tìm lại bài viết theo chủ đề sau này, J2TEAM Community yêu cầu mọi thành viên sử dụng [#hashtag](https://www.facebook.com/help/587836257914341) khi đăng bài trong nhóm.
+Nhằm mục đích phân loại nội dung cũng như giúp các bạn dễ dàng tìm lại bài viết theo chủ đề sau này, [J2TEAM Community](https://www.facebook.com/groups/j2team.community/) yêu cầu mọi thành viên sử dụng [#hashtag](https://www.facebook.com/help/587836257914341) khi đăng bài trong nhóm.
 
 **Lưu ý:**
 - Mọi hashtag phải bắt đầu bằng `j2team_` (giống như namespace) để tránh ảnh hưởng của hashtag trên các bài viết bên ngoài nhóm.
