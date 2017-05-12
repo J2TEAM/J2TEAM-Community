@@ -41,7 +41,7 @@ Các bài viết có dạng như sau sẽ KHÔNG được duyệt:
 
 ### VỀ HASHTAG
 
-Các bài viết chia sẻ tài liệu, ebook, mã nguồn hoặc bất cứ thứ gì mà thành viên khác có thể tải về được thì bạn vui lòng sử dụng hashtag [#j2team_share](https://www.facebook.com/hashtag/j2team_share) và các hashtag chứa từ khóa liên quan tới tài liệu (ví dụ: [#security](https://www.facebook.com/hashtag/security) nếu nội dung về bảo mật, [#php](https://www.facebook.com/hashtag/php) nếu chia sẻ ebook học PHP) để giúp BQT dễ dàng tổng hợp và phân loại tài nguyên cũng như tặng điểm thưởng trong hệ thống xếp hạng thành viên hoạt động tích cực. Đồng thời cũng giúp các thành viên khác có thể dễ dàng tìm bài viết hoặc chính bạn tìm lại sau này.
+Vui lòng xem [danh sách #hashtag được sử dụng trong nhóm](hashtags.md) để áp dụng cho hợp lý với nội dung bài viết của bạn.
 
 Ví dụ về một [bài viết](https://www.facebook.com/groups/j2team.community/permalink/413843845614408/) sử dụng hashtag:
 
