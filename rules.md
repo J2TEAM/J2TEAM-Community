@@ -11,6 +11,8 @@ Những tài khoản có dạng như sau sẽ **KHÔNG** được phép tham gia
 - Tài khoản có dấu hiệu là nick ảo, không hoạt động (vừa thay ảnh đại diện, ảnh bìa vài phút trước và không có bài đăng nào trên trang cá nhân).
 - Tài khoản không có tên hiển thị (Facebook ma) hoặc tên sử dụng ký tự đặc biệt.
 
+**Đặc biệt chú ý:** Bất cứ ai chặn (block) thành viên trong Ban Quản Trị sẽ bị chặn khỏi nhóm.
+
 ## NỘI QUY ĐĂNG BÀI VIẾT
 
 ### VỀ NỘI DUNG
@@ -22,6 +24,7 @@ Những tài khoản có dạng như sau sẽ **KHÔNG** được phép tham gia
 - Nếu đăng bài viết về lập trình, hãy sử dụng các trang như [pastebin.com](http://pastebin.com/index.php) hoặc [gist.github.com](https://gist.github.com/) để đăng code thay vì paste thẳng code trong bài viết.
 - Nếu chia sẻ tài nguyên, liên kết mà thành viên khác có thể download được thì khuyến khích sử dụng trang [mã hóa liên kết của J2TeaM](http://code.junookyo.xyz/j2team-community/) hoặc trang [anlink.top](http://anlink.top/) của bạn Nguyen Huu Dat, vừa chống được "Ninja" lại vừa tăng tương tác cho nhóm. Xem bài giới thiệu [tại đây](https://www.facebook.com/groups/j2team.community/permalink/423097854689007/)!
 - Nếu bài viết, tài nguyên không phải là của bạn thì hãy **ghi nguồn** khi chia sẻ vào nhóm để tôn trọng công sức của tác giả.
+- **KHÔNG** yêu cầu người khác cung cấp email trong bình luận. Nếu thực sự cần thiết phải chia sẻ qua email thì vui lòng sử dụng Google Forms.
 
 ### VỀ CHỦ ĐỀ
 
