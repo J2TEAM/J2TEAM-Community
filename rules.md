@@ -55,6 +55,13 @@ Ví dụ về một [bài viết](https://www.facebook.com/groups/j2team.communi
 - **KHÔNG** "chấm" (".") hoặc "hóng", hãy dùng chức năng "Bật thông báo cho bài viết" hoặc "Lưu bài viết" nếu bạn muốn theo dõi cập nhật của bài viết.
 - **KHÔNG** spam, dùng chức năng "Sửa bình luận" thay vì bình luận liên tiếp trong thời gian ngắn.
 
+Các từ khóa nên tránh nếu bạn không muốn triệu hồi [Death Click](https://junookyo.blogspot.com/2017/05/death-click-chrome-extension-facebook.html?utm_source=github):
+- Chấm (các biến thể như phẩy, chấm phẩy,... đều bị ảnh hưởng)
+- Hóng
+- votuonglai.com
+- chongtuonglai.com
+- contuonglai.com
+
 ## HÌNH THỨC XỬ LÝ THÀNH VIÊN VI PHẠM
 
 Tùy theo mức độ vi phạm nội quy mà các bạn có thể sẽ bị nhắc nhở, **XÓA** bài viết, **KICK** hoặc **BAN** vĩnh viễn khỏi nhóm.
