@@ -61,6 +61,7 @@ Các từ khóa nên tránh nếu bạn không muốn triệu hồi [Death Click
 - votuonglai.com
 - chongtuonglai.com
 - contuonglai.com
+- mechongtuonglai.com
 
 ## HÌNH THỨC XỬ LÝ THÀNH VIÊN VI PHẠM
 
