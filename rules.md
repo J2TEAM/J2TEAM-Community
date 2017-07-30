@@ -41,7 +41,7 @@ Các bài viết có dạng như sau sẽ KHÔNG được duyệt:
 
 ### VỀ HASHTAG
 
-Vui lòng xem [danh sách #hashtag được sử dụng trong nhóm](hashtags.md) để áp dụng cho hợp lý với nội dung bài viết của bạn.
+Vui lòng xem [danh sách #hashtag sử dụng trong nhóm](hashtags.md) để áp dụng cho hợp lý với nội dung bài viết của bạn.
 
 Ví dụ về một [bài viết](https://www.facebook.com/groups/j2team.community/permalink/413843845614408/) sử dụng hashtag:
 
