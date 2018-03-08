@@ -1,3 +1,5 @@
+<img src="https://3.bp.blogspot.com/-ASwf6KwwdAM/Wdo7LXx0hkI/AAAAAAAAD8o/vSNWFYpVaogD65JMfwCmMOtXJOeby5SKgCLcBGAs/s1600/j2team-community-birthday.png" width=1 height=1>
+
 # NỘI QUY NHÓM J2TEAM COMMUNITY
 
 Để tránh việc bị Kick, Ban hoặc bị xóa bài mà không biết nguyên nhân tại sao, đề nghị các bạn vui lòng **đọc kỹ nội quy** trước khi tham gia nhóm.
