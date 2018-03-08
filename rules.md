@@ -6,8 +6,6 @@
 
 Những tài khoản có dạng như sau sẽ **KHÔNG** được phép tham gia nhóm:
 - Vừa tham gia Facebook được 1-3 ngày.
-- Không có ảnh đại diện (sử dụng [ảnh mặc định](https://graph.facebook.com/2/picture?type=large) của Facebook).
-- Cố tình sử dụng ảnh đại diện giống BQT gây nhầm lẫn cho thành viên khác.
 - Tài khoản có dấu hiệu là nick ảo, không hoạt động (vừa thay ảnh đại diện, ảnh bìa vài phút trước và không có bài đăng nào trên trang cá nhân).
 - Tài khoản không có tên hiển thị (Facebook ma) hoặc tên sử dụng ký tự đặc biệt.
 
@@ -22,13 +20,13 @@ Những tài khoản có dạng như sau sẽ **KHÔNG** được phép tham gia
 - Dùng chức năng tìm kiếm bài viết trong nhóm trước khi đăng để tránh việc **trùng lặp nội dung**.
 - **KHÔNG** sử dụng các liên kết rút gọn (ouo, adfly, link5s...) hoặc liên kết giới thiệu (ref) trong bài viết với mục đích kiếm lợi nhuận từ nhóm.
 - Nếu đăng bài viết về lập trình, hãy sử dụng các trang như [pastebin.com](http://pastebin.com/index.php) hoặc [gist.github.com](https://gist.github.com/) để đăng code thay vì paste thẳng code trong bài viết.
-- Nếu chia sẻ tài nguyên, liên kết mà thành viên khác có thể download được thì khuyến khích sử dụng trang [mã hóa liên kết của J2TeaM](http://code.junookyo.xyz/j2team-community/) hoặc trang [anlink.top](http://anlink.top/) của bạn Nguyen Huu Dat, vừa chống được "Ninja" lại vừa tăng tương tác cho nhóm. Xem bài giới thiệu [tại đây](https://www.facebook.com/groups/j2team.community/permalink/423097854689007/)!
+- Nếu chia sẻ tài nguyên, liên kết mà thành viên khác có thể download được thì khuyến khích sử dụng trang [mã hóa liên kết của J2TeaM](http://code.junookyo.xyz/j2team-community/) hoặc trang [anlink.top](http://anlink.top/), vừa chống được "Ninja" lại vừa tăng tương tác cho nhóm. Xem bài giới thiệu [tại đây](https://www.facebook.com/groups/j2team.community/permalink/423097854689007/)!
 - Nếu bài viết, tài nguyên không phải là của bạn thì hãy **ghi nguồn** khi chia sẻ vào nhóm để tôn trọng công sức của tác giả.
 - **KHÔNG** yêu cầu người khác cung cấp email trong bình luận. Nếu thực sự cần thiết phải chia sẻ qua email thì vui lòng sử dụng Google Forms.
 
 ### VỀ CHỦ ĐỀ
 
-Nhóm được quản lý bởi [J2TeaM](https://www.google.com.vn/search?q=j2team) nên ưu tiên chủ đề về công nghệ thông tin, thảo luận lập trình và bảo mật. Chấp nhận các bài giải trí (miễn là không quá nhảm).
+Nhóm được quản lý bởi [J2TEAM](https://www.google.com.vn/search?q=j2team) nên ưu tiên chủ đề về công nghệ thông tin, thảo luận lập trình và bảo mật. Chấp nhận các bài giải trí (miễn là không quá nhảm).
 
 Các bài viết có dạng như sau sẽ KHÔNG được duyệt:
 - Hỏi hoặc chia sẻ cách HACK tài khoản mạng xã hội (Facebook, Google,...) của người khác.
