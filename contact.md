@@ -5,22 +5,22 @@ Khi hợp tác với chúng tôi, các bạn sẽ nhận được những quyề
 ## Phân phối tin lên các kênh truyền thông của J2TEAM
 
 ### Fanpage
-https://www.facebook.com/junookyo.vn/
-https://www.facebook.com/JunoOkyoBlog/
-https://www.facebook.com/179034362668856/
-https://www.facebook.com/death.click.extension/
++ https://www.facebook.com/junookyo.vn/
++ https://www.facebook.com/JunoOkyoBlog/
++ https://www.facebook.com/179034362668856/
++ https://www.facebook.com/death.click.extension/
 
 ### Profile
-https://www.facebook.com/100003880469096
++ https://www.facebook.com/100003880469096
 
 ### Group
-https://www.facebook.com/groups/j2team.community/
++ https://www.facebook.com/groups/j2team.community/
 
 ### Website & Blog
-https://junookyo.blogspot.com/
++ https://junookyo.blogspot.com/
 
 ### Product
-https://chrome.google.com/webstore/detail/j2team-security/hmlcjjclebjnfohgmgikjfnbmfkigocc
++ https://chrome.google.com/webstore/detail/j2team-security/hmlcjjclebjnfohgmgikjfnbmfkigocc
 
 ## Các phương thức hỗ trợ truyền thông cho đối tác
 
