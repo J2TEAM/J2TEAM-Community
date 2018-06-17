@@ -18,6 +18,7 @@ Nhằm mục đích phân loại nội dung cũng như giúp các bạn dễ dà
 | #j2team_report     | Báo cáo ninja, thành viên hoặc bài viết vi phạm  |
 | #j2team_suggest    | Góp ý cho Ban Quản Trị nhóm                      |
 | #j2team_news       | Tin tức, cập nhật, thông báo từ BQT              |
+| #j2team_job        | Tuyển dụng hoặc yêu cầu trợ giúp có trả tiền     |
 
 ## Các hashtag phụ (không bắt buộc)
 
@@ -28,6 +29,7 @@ Nhằm mục đích phân loại nội dung cũng như giúp các bạn dễ dà
 | #j2team_ebook       | Sách, PDF                     |
 | #j2team_course      | Khóa học trực tuyến           |
 | #j2team_software    | Phần mềm                      |
+| #j2team_hardware    | Phần cứng (trừ câu hỏi)       |
 | #j2team_programming | Lập trình                     |
 
 (Danh sách hashtag phụ sẽ được cập nhật thêm cho phù hợp với nhóm...)
