@@ -40,6 +40,14 @@ Các bài viết có dạng như sau sẽ KHÔNG được duyệt:
 - Hỏi xin key, crack, phần mềm bản quyền.
 - Bài chỉ có mỗi liên kết mà không có mô tả gì (spam câu view).
 
+### CÁC CHUYÊN MỤC ĐẶC BIỆT
+
+Các bạn hãy chú ý một vài chủ đề đặc biệt, được các kiểm duyệt viên (moderator) lập bài viết mới mỗi tuần nhé.
+
+1. Chuyên mục [Tâm sự cuối tuần](https://www.facebook.com/groups/j2team.community/search/?query=%23j2team_weekend) của [Nguyễn Nam Long](https://www.facebook.com/J2TeamNNL): Chia sẻ cảm xúc, cảm nhận riêng của các bạn về cuộc sống.
+
+2. [Chuyên mục phần cứng](https://www.facebook.com/groups/j2team.community/search/?query=%23j2team_hardware) của [Lê Tá](https://www.facebook.com/erukyuu.tsu): Quy tụ tất cả về **phần cứng** *(các bộ phận sờ thấy được)* của máy tính, điện thoại và các phụ kiện liên quan. Các bạn hãy đặt câu hỏi về phần cứng tại đó, thay vì viết câu hỏi ra bài riêng. Chuyên đề luôn sẵn sàng tiếp nhận **câu hỏi** cũng như **câu trả lời** từ tất cả các thành viên.
+
 ### VỀ HASHTAG
 
 Hãy tham khảo [danh sách #hashtag sử dụng trong nhóm](hashtags.md) để áp dụng cho nội dung bài viết của bạn một cách hợp lý.
