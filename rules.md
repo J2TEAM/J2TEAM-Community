@@ -10,6 +10,7 @@ Những tài khoản có dạng như sau sẽ **KHÔNG** được phép tham gia
 - Vừa tham gia Facebook được 1-3 ngày.
 - Tài khoản có dấu hiệu là nick ảo, không hoạt động (vừa thay ảnh đại diện, ảnh bìa vài phút trước và không có bài đăng nào trên trang cá nhân).
 - Tài khoản không có tên hiển thị (Facebook ma) hoặc tên sử dụng ký tự đặc biệt.
+- Tài khoản có ảnh đại diện trùng với ảnh của Ban Quản Trị.
 
 **Đặc biệt chú ý:** Bất cứ ai chặn (block) thành viên trong Ban Quản Trị sẽ bị chặn khỏi nhóm.
 
@@ -59,7 +60,7 @@ Ví dụ về một [bài viết](https://www.facebook.com/groups/j2team.communi
 ## NỘI QUY ĐĂNG BÌNH LUẬN
 
 - **KHÔNG** văng tục, bình luận vô văn hóa, chửi thề.
-- Bình luận **PHẢI** liên quan tới nội dung bài viết.
+- Bình luận **PHẢI** liên quan tới nội dung bài viết, tránh vô nghĩa theo phong trào.
 - Nội dung bài viết không vừa lòng thì góp ý một cách lịch sự, không chê bai quá đáng, khiêu khích. Hoặc đơn giản chỉ cần bỏ qua, đọc bài khác.
 - **KHÔNG** "chấm" (".") hoặc "hóng", hãy dùng chức năng "Bật thông báo cho bài viết" hoặc "Lưu bài viết" nếu bạn muốn theo dõi cập nhật của bài viết.
 - **KHÔNG** spam, dùng chức năng "Sửa bình luận" thay vì bình luận liên tiếp trong thời gian ngắn.
