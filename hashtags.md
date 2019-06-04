@@ -8,17 +8,18 @@ Nhằm mục đích phân loại nội dung cũng như giúp các bạn dễ dà
 
 ## Các hashtag chính (bắt buộc)
 
-| Hashtag            | Chủ đề, nội dung của bài viết                    |
-|--------------------|--------------------------------------------------|
-| #j2team_question   | Hỏi đáp, thắc mắc                                |
-| #j2team_discussion | Thảo luận về chủ đề nào đó                       |
-| #j2team_share      | Chia sẻ (tài liệu, sách, phần mềm, khóa học,...) |
-| #j2team_relax      | Ảnh, video hoặc nội dung giải trí                |
-| #j2team_tutorial   | Hướng dẫn lập trình hoặc chia sẻ kiến thức       |
-| #j2team_report     | Báo cáo ninja, thành viên hoặc bài viết vi phạm  |
-| #j2team_suggest    | Góp ý cho Ban Quản Trị nhóm                      |
-| #j2team_news       | Tin tức, cập nhật, thông báo từ BQT              |
-| #j2team_job        | Tuyển dụng hoặc yêu cầu trợ giúp có trả tiền     |
+| Hashtag                 | Chủ đề, nội dung của bài viết                    |
+|-------------------------|--------------------------------------------------|
+| #j2team_question        | Hỏi đáp, thắc mắc                                |
+| #j2team_discussion      | Thảo luận về chủ đề nào đó                       |
+| #j2team_share           | Chia sẻ (tài liệu, sách, phần mềm, khóa học,...) |
+| #j2team_relax           | Ảnh, video hoặc nội dung giải trí                |
+| #j2team_tutorial        | Hướng dẫn lập trình hoặc chia sẻ kiến thức       |
+| #j2team_report          | Báo cáo ninja, thành viên hoặc bài viết vi phạm  |
+| #j2team_suggest         | Góp ý cho Ban Quản Trị nhóm                      |
+| #j2team_news            | Tin tức, cập nhật, thông báo từ BQT              |
+| #j2team_job             | Tuyển dụng hoặc yêu cầu trợ giúp có trả tiền     |
+| #j2team_share_feeling   | Tâm sự, chia sẻ cảm xúc                          |
 
 ## Các hashtag phụ (không bắt buộc)
 
