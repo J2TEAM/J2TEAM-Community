@@ -20,6 +20,7 @@ Những tài khoản có dạng như sau sẽ **KHÔNG** được phép tham gia
 - Sử dụng hashtag để phân loại nội dung bài viết, giúp mọi người dễ dàng tìm bài khi có thắc mắc. Xem thêm cụ thể tại phần [về hashtag](#v%E1%BB%80-hashtag).
 - **KHÔNG** đăng bài viết quảng cáo (rao vặt, bán sim,...). Có thể đăng bài viết tuyển dụng các công việc liên quan tới ngành nghề CNTT.
 - Nếu đăng bài hỏi đáp, hãy **tìm hiểu trước qua Google** để tránh hỏi những vấn đề đã có sẵn câu trả lời. Hỏi phải nói có đầu có đuôi, nói rõ vấn đề vướng mắc, **KHÔNG** hỏi trống lóc.
+- **KHÔNG** đăng bài hỏi về mở tài khoản, sự cố về ứng dụng.
 - Dùng chức năng tìm kiếm bài viết trong nhóm trước khi đăng để tránh việc **trùng lặp nội dung**.
 - **KHÔNG** sử dụng các liên kết rút gọn (ouo, adfly, link5s...) hoặc liên kết giới thiệu (ref) trong bài viết với mục đích kiếm lợi nhuận từ nhóm.
 - Nếu đăng bài viết về lập trình, hãy sử dụng các trang như [pastebin.com](http://pastebin.com/index.php) hoặc [gist.github.com](https://gist.github.com/) để đăng code thay vì paste thẳng code trong bài viết.
@@ -59,7 +60,7 @@ Ví dụ về một [bài viết](https://www.facebook.com/groups/j2team.communi
 ## NỘI QUY ĐĂNG BÌNH LUẬN
 
 - **KHÔNG** văng tục, bình luận vô văn hóa, chửi thề.
-- Bình luận **PHẢI** liên quan tới nội dung bài viết.
+- Bình luận **PHẢI** liên quan tới nội dung bài viết, tránh theo phong trào gây loãng nhóm.
 - Nội dung bài viết không vừa lòng thì góp ý một cách lịch sự, không chê bai quá đáng, khiêu khích. Hoặc đơn giản chỉ cần bỏ qua, đọc bài khác.
 - **KHÔNG** "chấm" (".") hoặc "hóng", hãy dùng chức năng "Bật thông báo cho bài viết" hoặc "Lưu bài viết" nếu bạn muốn theo dõi cập nhật của bài viết.
 - **KHÔNG** spam, dùng chức năng "Sửa bình luận" thay vì bình luận liên tiếp trong thời gian ngắn.
